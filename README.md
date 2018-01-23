@@ -1,5 +1,5 @@
 # Choropleth Map
-         <h2> Identité</h2>
+         <h2> Identité </h2>
 <p>
 Prénom : Aurélien
 Nom : VIRELLO
@@ -11,5 +11,6 @@ Une carte choroplèthe illustre une répartition des variables ou des caractéri
 En ce sens il est nécessaire de définir au préalable le nombre de classes retenues pour la représentation, ce qui correspond au nombre de paliers visuels à réaliser
 
 Connu également sous le nom de "carte teintée" ou "cartogramme à teinte dégradée", les cartes choroplèthes peuvent représenter une information non visuelle sous forme de graphique de la façon suivante :
+<font size="12" face="georgia" color="red">
 </p>
 
