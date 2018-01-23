@@ -1,5 +1,8 @@
 # Choropleth Map
-
+<h2>
+Prénom : Aurélien
+Nom : VIRELLO
+</h2>
 <h2>
 Définition : Carte choroplèthe
 </h2>
