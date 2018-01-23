@@ -1,10 +1,9 @@
 # Choropleth Map
 
-<h2> Définition  </h2>
-<p>
-Prénom : Aurélien
-Nom : VIRELLO
-</p>
+<h2> Auteur </h2>
+<p> Prénom : Aurélien </p>
+<p> Nom : VIRELLO </p>
+<p> Ecole Centrale de Lyon </p>
          <h2> Définition : Carte choroplèthe </h2>
 <p align="justify">
 Une carte choroplèthe illustre une répartition des variables ou des caractéristiques grâce à des zones colorées ou ombrées correspondant aux fourchettes de répartitions.
