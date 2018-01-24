@@ -14,9 +14,8 @@ Connu également sous le nom de "carte teintée" ou "cartogramme à teinte dégr
 </p>
 <figure>
 <p align="center"> <img src="/img/Figure 1.png" width=80% />
- <figcaption> Figure 1 : Exemple de carte choroplèthe  </figcaption> </p>
 </figure>
-<p align="center"> <i>Figure 1 : Exemple de carte choroplèthe </i></p>
+<p align="center"> <i>Figure 1 : Exemple de carte choroplèthe </i> </p>
 
 <h2> La naissance des cartes choroplèthes en France</h2>
 
