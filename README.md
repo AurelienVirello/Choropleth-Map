@@ -24,14 +24,14 @@ Inspiré par les travaux de Georg Hassel et August Friedrich Wilhelm Crome, il t
 </p>
 
 <img src="https://fr.wikipedia.org/wiki/Carte_choroplèthe#/media/File:Carte_figurative_de_l%27instruction_populaire_de_la_France.jpg" width="60%"  align="center"/>
-<p align="center"> Figure 2 : Carte figurative de l'instruction populaire </p>
+<p align="center"> <i> Figure 2 : Carte figurative de l'instruction populaire </i> </p>
 
 <p align="justify">
 Ensuite, depuis le milieu du XXe siècle, des spécialistes dans les domaines de la psychologie, de l’économie, de la linguistique, de l’anthropologie, de la philosophie et de l’histoire, ont participé à faire évoluer ces cartes. 
 En effet, le type de visuel utilisé peut varier en fonction de la nature des informations a représenter, ainsi ces cartes parviennent à faire parler des données initialement complexe a étudiée.
 </p>
          <img src="https://infographiclist.files.wordpress.com/2012/01/beautifulliesinfographicsinspirationspollutionmap_4f22334dcdee5.gif" width="60%">
-<p align="center"> Figure 3 : Cartogramme de la pollution mondiale </p>
+<p align="center"> <i> Figure 3 : Cartogramme de la pollution mondiale </i> </p>
 
 <p align="justify">
 Ces cartes permettent donc, d'un simple coup d'œil, de visualiser la tendance générale d'une zone géographique. En ce sens elles ont été une base solide de réflexion avant l'arrivée de logiciel de datavisualisation ou de systèmes d'informations géographiques qui permettent un traitement beaucoup plus agile, riche et rapide d'une grande quantité de données
