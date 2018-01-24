@@ -33,7 +33,7 @@ Ensuite, depuis le milieu du XXe siècle, des spécialistes dans les domaines de
 En effet, le type de visuel utilisé peut varier en fonction de la nature des informations a représenter, ainsi ces cartes parviennent à faire parler des données initialement complexe a étudiée.
 </p>
       <figure>
-<p align="center"> <img src="/img/Figure 3.png" width=80% /> </p>
+<p align="center"> <img src="/img/Figure 3.gif" width=80% /> </p>
 </figure>
          <i> Figure 3 : Cartogramme de la pollution mondiale </i> </p>
 
