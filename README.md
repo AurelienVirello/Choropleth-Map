@@ -1,5 +1,6 @@
-# Choropleth Map
-
+<p align="center"> 
+         # Choropleth Map
+</p>
 <h2> Auteur </h2>
 <p> Prénom : <b> Aurélien </b></p>
 <p> Nom : <b> VIRELLO </b> </p>
