@@ -14,7 +14,7 @@ Connu également sous le nom de "carte teintée" ou "cartogramme à teinte dégr
 </p>
 
 <img src="https://excelinsmartdata.fr/wp-content/uploads/articles/2016/12/10/Exemple-carte-choroplèthe-PIB-pays.png" align="center" width="60%"/>
-<p align="center"> Figure 1 : Exemple de carte choroplèthe </p>
+<p align="center"> <font size="10">Figure 1 : Exemple de carte choroplèthe </font></p>
 
 <h2> La naissance des cartes choroplèthes en France</h2>
 
