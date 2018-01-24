@@ -26,15 +26,16 @@ Ensuite, depuis le milieu du XXe siècle, des spécialistes dans les domaines de
 En effet, le type de visuel utilisé peut varier en fonction de la nature des informations a représenter, ainsi ces cartes parviennent à faire parler des données initialement complexe a étudiée.
 </p>
 
-<img src="https://infographiclist.files.wordpress.com/2012/01/beautifulliesinfographicsinspirationspollutionmap_4f22334dcdee5.gif" width="60%"  align="center"/>
-
+<center> 
+         <img src="https://infographiclist.files.wordpress.com/2012/01/beautifulliesinfographicsinspirationspollutionmap_4f22334dcdee5.gif" width="60%">
+</enter> 
 <p align="justify">
 Ces cartes permettent donc, d'un simple coup d'œil, de visualiser la tendance générale d'une zone géographique. En ce sens elles ont été une base solide de réflexion avant l'arrivée de logiciel de datavisualisation ou de systèmes d'informations géographiques qui permettent un traitement beaucoup plus agile, riche et rapide d'une grande quantité de données
 </p>
 
 <h2> Sources </h2>
 <ul>
-  <li> 2https://fr.wikipedia.org/wiki/Carte_choroplèthe</li>
+  <li> https://fr.wikipedia.org/wiki/Carte_choroplèthe</li>
   <li> http://www.hypergeo.eu/spip.php?article274</li>
   <li> https://fr.wikipedia.org/wiki/Charles_Dupin</li>
   <li> https://fr.glosbe.com/fr/fr/carte%20choroplèthe</li>
