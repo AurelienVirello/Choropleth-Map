@@ -13,7 +13,7 @@ En ce sens il est nécessaire de définir au préalable le nombre de classes ret
 Connu également sous le nom de "carte teintée" ou "cartogramme à teinte dégradée", les cartes choroplèthes peuvent représenter une information non visuelle sous forme de graphique de la façon suivante :
 </p>
 
-<img src="https://excelinsmartdata.fr/wp-content/uploads/articles/2016/12/10/Exemple-carte-choroplèthe-PIB-pays.png" align="center" width="60%"/>
+<img src="https://excelinsmartdata.fr/wp-content/uploads/articles/2016/12/10/Exemple-carte-choroplèthe-PIB-pays.png" align="center" width="80%"/>
 <p align="center"> <i>Figure 1 : Exemple de carte choroplèthe </i></p>
 
 <h2> La naissance des cartes choroplèthes en France</h2>
@@ -23,14 +23,14 @@ Le Baron Charles Dupin fut le premier historien-démographe français a proposé
 Inspiré par les travaux de Georg Hassel et August Friedrich Wilhelm Crome, il tire cette représentation des données statistiques des enfants scolarisés de l'époque.
 </p>
 
-<img src="https://fr.wikipedia.org/wiki/Carte_choroplèthe#/media/File:Carte_figurative_de_l%27instruction_populaire_de_la_France.jpg" width="60%"  align="center"/>
+<img src="https://fr.wikipedia.org/wiki/Carte_choroplèthe#/media/File:Carte_figurative_de_l%27instruction_populaire_de_la_France.jpg" width="80%"  align="center"/>
 <p align="center"> <i> Figure 2 : Carte figurative de l'instruction populaire </i> </p>
 
 <p align="justify">
 Ensuite, depuis le milieu du XXe siècle, des spécialistes dans les domaines de la psychologie, de l’économie, de la linguistique, de l’anthropologie, de la philosophie et de l’histoire, ont participé à faire évoluer ces cartes. 
 En effet, le type de visuel utilisé peut varier en fonction de la nature des informations a représenter, ainsi ces cartes parviennent à faire parler des données initialement complexe a étudiée.
 </p>
-         <img src="https://infographiclist.files.wordpress.com/2012/01/beautifulliesinfographicsinspirationspollutionmap_4f22334dcdee5.gif" width="60%">
+         <img src="https://infographiclist.files.wordpress.com/2012/01/beautifulliesinfographicsinspirationspollutionmap_4f22334dcdee5.gif" width="80%">
 <p align="center"> <i> Figure 3 : Cartogramme de la pollution mondiale </i> </p>
 
 <p align="justify">
