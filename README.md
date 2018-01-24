@@ -12,14 +12,14 @@ En ce sens il est nécessaire de définir au préalable le nombre de classes ret
 
 Connu également sous le nom de "carte teintée" ou "cartogramme à teinte dégradée", les cartes choroplèthes peuvent représenter une information non visuelle sous forme de graphique de la façon suivante :
 </p>
-<p align="center">XXX </p>
+<p align="center"> Exemple de carte choroplèthe </p>
 <img src="https://excelinsmartdata.fr/wp-content/uploads/articles/2016/12/10/Exemple-carte-choroplèthe-PIB-pays.png" align="center" width="60%"/>
 <h2> La naissance des cartes choroplèthes en France</h2>
 <p align="justify">
 Le Baron Charles Dupin fut le premier historien-démographe français a proposé une carte choroplèthe de France afin de représenter l'instruction populaire de la en 1826.
 Inspiré par les travaux de Georg Hassel et August Friedrich Wilhelm Crome, il tire cette représentation des données statistiques des enfants scolarisés de l'époque.
 </p>
-
+<p align="center"> Carte figurative de l'instruction populaire </p>
 <img src="https://fr.wikipedia.org/wiki/Carte_choroplèthe#/media/File:Carte_figurative_de_l%27instruction_populaire_de_la_France.jpg" width="60%"  align="center"/>
 
 <p align="justify">
@@ -27,9 +27,11 @@ Ensuite, depuis le milieu du XXe siècle, des spécialistes dans les domaines de
 En effet, le type de visuel utilisé peut varier en fonction de la nature des informations a représenter, ainsi ces cartes parviennent à faire parler des données initialement complexe a étudiée.
 </p>
 
-<center> 
+
+<p align="center"> Cartogramme de la pollution mondiale </p>
          <img src="https://infographiclist.files.wordpress.com/2012/01/beautifulliesinfographicsinspirationspollutionmap_4f22334dcdee5.gif" width="60%">
-</enter> 
+
+
 <p align="justify">
 Ces cartes permettent donc, d'un simple coup d'œil, de visualiser la tendance générale d'une zone géographique. En ce sens elles ont été une base solide de réflexion avant l'arrivée de logiciel de datavisualisation ou de systèmes d'informations géographiques qui permettent un traitement beaucoup plus agile, riche et rapide d'une grande quantité de données
 </p>
