@@ -17,7 +17,7 @@ Connu également sous le nom de "carte teintée" ou "cartogramme à teinte dégr
 </figure>
 <p align="center"> <i>Figure 1 : Exemple de carte choroplèthe </i> </p>
 
-<h2> La naissance des cartes choroplèthes en France</h2>
+<h2> La naissance des cartes choroplèthes en France </h2>
 
 <p align="justify">
 Le Baron Charles Dupin fut le premier historien-démographe français a proposé une carte choroplèthe de France afin de représenter l'instruction populaire de la en 1826.
@@ -32,7 +32,8 @@ Inspiré par les travaux de Georg Hassel et August Friedrich Wilhelm Crome, il t
 Ensuite, depuis le milieu du XXe siècle, des spécialistes dans les domaines de la psychologie, de l’économie, de la linguistique, de l’anthropologie, de la philosophie et de l’histoire, ont participé à faire évoluer ces cartes. 
 En effet, le type de visuel utilisé peut varier en fonction de la nature des informations a représenter, ainsi ces cartes parviennent à faire parler des données initialement complexe a étudiée.
 </p>
-<h2> Les cartes choroplèthes , une base solide dans l'étude de la visualisation cartographique de données.</h2>
+
+<h2> Les cartes choroplèthes , une base solide dans l'évolution de la visualisation cartographique de données.</h2>
 
 <p align="justify">
 Les cartes, quelques en soit leurs natures, ont joué un rôle très important dans l'histoire et dans la compréhension du monde, comme le premier Atlas.
