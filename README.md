@@ -32,6 +32,13 @@ Inspiré par les travaux de Georg Hassel et August Friedrich Wilhelm Crome, il t
 Ensuite, depuis le milieu du XXe siècle, des spécialistes dans les domaines de la psychologie, de l’économie, de la linguistique, de l’anthropologie, de la philosophie et de l’histoire, ont participé à faire évoluer ces cartes. 
 En effet, le type de visuel utilisé peut varier en fonction de la nature des informations a représenter, ainsi ces cartes parviennent à faire parler des données initialement complexe a étudiée.
 </p>
+<h2> Les cartes choroplèthes , une base solide dans l'étude de la visualisation cartographique de données.</h2>
+
+<p align="justify">
+Les cartes, quelques en soit leurs natures, ont joué un rôle très important dans l'histoire et dans la compréhension du monde, comme le premier Atlas.
+En ce qui concerne les cartes choroplèthes, elles ont elles joué un rôle majeur dans la visualisation de données. En effet, ces cartes ont été les premières à donner un sens à une grande quantité de statistiques ininterprétables sans traitement.
+Ces cartes ont ensuite été enrichies par des cartogrammes, pour lesquelles, les variables thématiques remplacent la surface des territoires représentés, voici un exemple : 
+</p>
 <figure>
 <p align="center"> <img src="/img/Figure 3.gif" width=80% /> </p>
 </figure>
