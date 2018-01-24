@@ -13,7 +13,7 @@ En ce sens il est nécessaire de définir au préalable le nombre de classes ret
 Connu également sous le nom de "carte teintée" ou "cartogramme à teinte dégradée", les cartes choroplèthes peuvent représenter une information non visuelle sous forme de graphique de la façon suivante :
 </p>
 <figure>
-<p align="center"> <img src="/img/Figure 1.png" width=80% /> </p>
+<p align="center"> <img src="/img/Figure 1.png" width=60% /> </p>
 </figure>
 <p align="center"> <i>Figure 1 : Exemple de carte choroplèthe </i></p>
 
@@ -24,7 +24,7 @@ Le Baron Charles Dupin fut le premier historien-démographe français a proposé
 Inspiré par les travaux de Georg Hassel et August Friedrich Wilhelm Crome, il tire cette représentation des données statistiques des enfants scolarisés de l'époque.
 </p>
 <figure>
-<p align="center"> <img src="/img/Figure 2.png" width=80% /> </p>
+<p align="center"> <img src="/img/Figure 2.jpg" width=60% /> </p>
 </figure>
 <p align="center"> <i> Figure 2 : Carte figurative de l'instruction populaire </i> </p>
 
