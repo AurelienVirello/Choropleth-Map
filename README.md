@@ -12,6 +12,7 @@ En ce sens il est nécessaire de définir au préalable le nombre de classes ret
 
 Connu également sous le nom de "carte teintée" ou "cartogramme à teinte dégradée", les cartes choroplèthes peuvent représenter une information non visuelle sous forme de graphique de la façon suivante :
 </p>
+<p align="center">XXX </p>
 <img src="https://excelinsmartdata.fr/wp-content/uploads/articles/2016/12/10/Exemple-carte-choroplèthe-PIB-pays.png" align="center" width="60%"/>
 <h2> La naissance des cartes choroplèthes en France</h2>
 <p align="justify">
