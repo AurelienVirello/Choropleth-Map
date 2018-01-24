@@ -1,8 +1,8 @@
 # Choropleth Map
 
 <h2> Auteur </h2>
-<p> Prénom : Aurélien </p>
-<p> Nom : VIRELLO </p>
+<p> Prénom : <b> Aurélien </b></p>
+<p> Nom : <b> VIRELLO </b> </p>
 <p> Ecole Centrale de Lyon </p>
          <h2> Définition : Carte choroplèthe </h2>
 <p align="justify">
